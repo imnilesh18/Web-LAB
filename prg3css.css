@@ -1,0 +1,10 @@
+.right
+{
+    color: red;
+    text-align: right;
+    text-decoration: overline;
+}
+a:link{color:red}
+a:visited{color:cyan}
+a:hover{color:blue}
+a:active{color:yellow}
